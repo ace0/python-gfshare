@@ -19,7 +19,8 @@ Quickstart
 -------------
 
 On MacOS with brew and python installed:
-```
-brew install libgfshare
-pip install gfshare
-```
+
+`brew install libgfshare`
+
+`pip install gfshare`
+
