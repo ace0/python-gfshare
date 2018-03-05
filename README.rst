@@ -14,3 +14,12 @@ to split an arbitrary secret into multiple parts.
 
 Please see the `full documentation <https://lamby.github.io/python-gfshare/>`__
 for more details, usage examples, etc.
+
+Quickstart
+-------------
+
+On MacOS with brew and python installed:
+```
+brew install libgfshare
+pip install gfshare
+```
